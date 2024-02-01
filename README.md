@@ -1,6 +1,9 @@
 # website-design-and-development
-My website projects
 
-Skincare_website
-- A simple landing page of a skincare company. 
-- HTML and CSS 
+Skincare Website:
+- Simple static landing page of a skincare company
+- Used HTML and CSS 
+- Used Figma for the prototype 
+  
+![prototype](https://github.com/vanessadubouzet/website-design-and-development/assets/91502598/4b96be3a-5898-4884-8368-71f944610530)
+
