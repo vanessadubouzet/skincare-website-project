@@ -1,5 +1,4 @@
 # website-design-and-development
-My website projects
 
 Skincare Website:
 - Simple landing page of a skincare company
