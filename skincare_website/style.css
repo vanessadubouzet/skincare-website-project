@@ -18,7 +18,7 @@ body {
     z-index: 100;
 }
 
-.logo-img{
+.logo-img {
     width: 170px;
     height: 90px;
     margin-left: 30px;
@@ -32,7 +32,7 @@ body {
     margin-right: 40px;
 }
 
-.hero-banner{
+.hero-banner {
     background: url(./images/cover.jpg);
     height: 500px;
     background-position: center;
@@ -44,11 +44,11 @@ body {
     align-items: center;
 }
 
-.hero-contents{
+.hero-contents {
     justify-content: center;
 }
 
-.hero-contents h1{
+.hero-contents h1 {
     font-size: 80px;
     color: #e49c5c;
 }
@@ -118,7 +118,7 @@ body {
     text-align: center;
 }
 
-.booking-contents button{
+.booking-contents button {
     background-color: #e49c5c;
     border: none;
     color: #fff;
@@ -130,7 +130,7 @@ body {
     font-size: 16px;
 }
 
-.booking-contents button:hover{
+.booking-contents button:hover {
     cursor: pointer;
 }
 
@@ -165,7 +165,7 @@ body {
     justify-content: center;
 }
 
-.link-bar img{
+.link-bar img {
     width: 30px;
     height: 30px;
     margin-right: 30px;
