@@ -1,5 +1,3 @@
-# website-design-and-development
-
 Skincare Website:
 - Simple static landing page of a skincare company
 - Used HTML and CSS 
